@@ -40,7 +40,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag05-coder&show_icons=true&theme=tokyonight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag05-coder&show_icons=true&theme=dracula&hide=contribs)
 
 
 
