@@ -2,9 +2,9 @@
 
 ## I'm a Competitive Programmer, Student and a Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects and to improve my competitive programming skills
+- 🥅 2023 Goals: Contribute more to Open Source projects and to improve my competitive programming skills
 - ⚡ Fun fact: I love to code and play cricket.
 
 
